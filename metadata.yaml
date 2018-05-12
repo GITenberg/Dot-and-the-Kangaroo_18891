@@ -22,6 +22,8 @@ description: "Dot and the Kangaroo is a children's book written by Ethel C. Pedl
   \ about a little girl named Dot who gets lost in the Australian outback and is eventually\
   \ befriended by a kangaroo and several other marsupials. The book was adapted into\
   \ a stage production in 1924, and a film in 1977.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18891#Dot-and-the-Kangaroo
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2006-07-22'
 gutenberg_type: Text
