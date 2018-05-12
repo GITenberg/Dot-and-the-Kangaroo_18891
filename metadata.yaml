@@ -1,0 +1,44 @@
+_repo: Dot-and-the-Kangaroo_18891
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Mahony, Frank P.
+    birthdate: 1862
+    deathdate: 1916
+    gutenberg_agent_id: '8320'
+    url: http://www.gutenberg.org/2009/agents/8320
+covers:
+- cover_type: archival
+  image_path: 18891-h/images/cover-f.jpg
+creator:
+  author:
+    agent_name: Pedley, Ethel C.
+    birthdate: 1859
+    deathdate: 1898
+    gutenberg_agent_id: '1273'
+    url: http://www.gutenberg.org/2009/agents/1273
+    wikipedia: http://en.wikipedia.org/wiki/Ethel_Pedley
+description: "Dot and the Kangaroo is a children's book written by Ethel C. Pedley\
+  \ about a little girl named Dot who gets lost in the Australian outback and is eventually\
+  \ befriended by a kangaroo and several other marsupials. The book was adapted into\
+  \ a stage production in 1924, and a film in 1977.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2006-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18891'
+  wikidata: Q4355403
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Kangaroos -- Juvenile fiction'
+- !lcsh 'Animals -- Australia -- Juvenile fiction'
+title: Dot and the Kangaroo
+url: http://www.gutenberg.org/ebooks/18891
+wikipedia:
+- https://fi.wikipedia.org/wiki/Dot_and_the_Kangaroo
+- https://en.wikipedia.org/wiki/Dot_and_the_Kangaroo
+- https://commons.wikimedia.org/wiki/Dot_and_the_Kangaroo
